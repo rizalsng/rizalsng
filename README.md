@@ -1,0 +1,2 @@
+- 🌏 a geographer
+- 🧭 Working intensely at the intersection of data analysis, cartography and programming
